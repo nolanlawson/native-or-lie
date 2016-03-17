@@ -17,5 +17,7 @@
   "dependencies": {
     "lie": "*"
   },
-  "files": []
+  "files": [
+    "index.js"
+  ]
 }
