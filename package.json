@@ -1,6 +1,6 @@
 {
   "name": "native-or-lie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exports native Promises if available, else lie",
   "main": "index.js",
   "repository": {
